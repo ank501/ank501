@@ -14,6 +14,7 @@
 - 💬 Ask me about **React ,JavaScript ,HTML ,CSS**
 
 - 📫 How to reach me **ankitsyadav246@gmail.com**
+- - 📄 Know about my experiences [https://drive.google.com/file/d/1a4ua4R4NImdwThREpEzUTkTKNGi8WfI7/view?usp=sharing](https://drive.google.com/file/d/1a4ua4R4NImdwThREpEzUTkTKNGi8WfI7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
