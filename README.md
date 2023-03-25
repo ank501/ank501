@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN**
 - 💬 Ask me about **React ,JavaScript ,HTML ,CSS**
-- 👨‍💻 All of my projects are available at [ank501.github.io](ank501.github.io)
+- 👨‍💻 All of my projects are available at [https//ank501.github.io](https://ank501.github.io)
 - 📫 How to reach me **ankitsyadav246@gmail.com**
 - - 📄 Know about my experiences [https://drive.google.com/file/d/1a4ua4R4NImdwThREpEzUTkTKNGi8WfI7/view?usp=sharing](https://drive.google.com/file/d/1a4ua4R4NImdwThREpEzUTkTKNGi8WfI7/view?usp=sharing)
 
