@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on ReactJS.
-- 🌱 I’m currently learning MERN stack
-
 
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
