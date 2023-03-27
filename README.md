@@ -1,5 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=ank501&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*RAsZ2uD3ZO7-NCuK2MUILA.gif" />
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ank501&theme=gitdimmed&no-frame=true&no-bg=false&margin-w=4)
 
