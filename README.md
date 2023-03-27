@@ -1,5 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=ank501&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<h1 align="center">Hi 👋, I'm Ankit Singh</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
+
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*RAsZ2uD3ZO7-NCuK2MUILA.gif" />
 
 
