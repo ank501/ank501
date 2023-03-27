@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<a href="https://ank501.github.io" >Portfolio </a> 
+portfolio : https://ank501.github.io
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ank501" alt="ank501" /></a> </p>
 
